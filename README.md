@@ -1,5 +1,4 @@
-# *RObot SOccer Simulator* - ROSOS
-This is an ongoing project, to create a tournament of Simulated robots lying over Processing.
+# *Soccer Simulator* 
 
 ## Install & Setup
 0. Install Processing Version 3.3.6 or higher.
