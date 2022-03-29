@@ -35,7 +35,6 @@ class Sensor{
 	 * @return The new computed reading
 	 */
 	protected float getReadingAfterNoise(float reading, float noise) {
-		float addedNoise = (float) Math.random() * noise - noise / 2f;
-		return reading + addedNoise;
+		return reading;
 	}
 }
