@@ -8,7 +8,7 @@ import processing.core.*;
 class SensorDistance extends Sensor{
 
 	// Random noise applied to the final reading
-	private static final float NOISE_AMOUNT = .01f;
+	private static final float NOISE_AMOUNT = .0f;
 
 	// Angle in degrees between robot's heading and sensor heading
 	public float localOrientation = 0f;

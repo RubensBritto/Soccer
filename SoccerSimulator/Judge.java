@@ -49,10 +49,10 @@ public class Judge{
 		checkBallStopped();
 
 		// Remove robots from game, if they are outside
-		checkRobotsOutside();
+		// checkRobotsOutside();
 
 		// Put back robots that have been outside for longer time
-		putBackRobotsOutside();
+		// putBackRobotsOutside();
 
 		// Check if scored goals
 		checkGoal();

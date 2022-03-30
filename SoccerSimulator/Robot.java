@@ -73,7 +73,7 @@ public class Robot extends Simulatable implements ShapeCircle, Drawable, Runnabl
 		Physical properties
 	*/
 	public float getRadius(){
-		return 0.11f;
+		return 0.05f;
 	}
 
 	public float getMass(){
