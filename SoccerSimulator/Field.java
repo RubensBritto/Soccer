@@ -27,8 +27,8 @@ public class Field implements Drawable{
 	// black
 	int black = 0; 
 
-	int leftSideColor = 0xFF1010FF;
-	int rightSideColor = 0xFFEFEF10;
+	int leftSideColor = 0xFF1274cd;
+	int rightSideColor = 0xFFF51E0E;
 	
 	Field(float w, float h){
 		width = w;
